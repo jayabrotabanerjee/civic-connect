@@ -15,4 +15,4 @@ CivicConnect/
 │   │   │           ├── activity_main.xml
 │   │   │           └── activity_sign_in.xml 
 │   │   │           └── activity_sign_up.xml
-│   │   │           └── activity_home.xml
+│   │   │           └── activity_home.xml 
