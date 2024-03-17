@@ -1,4 +1,4 @@
-CivicConnect/
+CivicConnect/                                                                                                                                                                                                              
 ├── app/
 │   ├── src/
 │   │   ├── main/
